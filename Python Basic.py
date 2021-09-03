@@ -166,3 +166,6 @@ a=input("Enter user input")
 print(a)
 
 
+string = "freeCodeCamp is fun."
+print(string.split(" "))
+
